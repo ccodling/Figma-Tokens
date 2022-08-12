@@ -54,5 +54,201 @@
   "black": {
     "value": "#333333",
     "type": "color"
+  },
+  "fontFamilies": {
+    "open-sans": {
+      "value": "Open Sans",
+      "type": "fontFamilies"
+    }
+  },
+  "lineHeights": {
+    "0": {
+      "value": 36,
+      "type": "lineHeights"
+    },
+    "1": {
+      "value": 26,
+      "type": "lineHeights"
+    },
+    "2": {
+      "value": 20,
+      "type": "lineHeights"
+    },
+    "3": {
+      "value": 18,
+      "type": "lineHeights"
+    },
+    "4": {
+      "value": 16,
+      "type": "lineHeights"
+    }
+  },
+  "fontWeights": {
+    "open-sans-0": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "open-sans-1": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "open-sans-2": {
+      "value": "Bold",
+      "type": "fontWeights"
+    }
+  },
+  "fontSize": {
+    "0": {
+      "value": 12,
+      "type": "fontSizes"
+    },
+    "1": {
+      "value": 14,
+      "type": "fontSizes"
+    },
+    "2": {
+      "value": 16,
+      "type": "fontSizes"
+    },
+    "3": {
+      "value": 20,
+      "type": "fontSizes"
+    },
+    "4": {
+      "value": 24,
+      "type": "fontSizes"
+    }
+  },
+  "letterSpacing": {
+    "0": {
+      "value": 0,
+      "type": "letterSpacing"
+    }
+  },
+  "paragraphSpacing": {
+    "0": {
+      "value": 0,
+      "type": "paragraphSpacing"
+    }
+  },
+  "Heading": {
+    "H1": {
+      "value": {
+        "fontFamily": "Open Sans",
+        "fontWeight": "SemiBold",
+        "lineHeight": 36,
+        "fontSize": 24,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    },
+    "H2": {
+      "value": {
+        "fontFamily": "Open Sans",
+        "fontWeight": "SemiBold",
+        "lineHeight": 26,
+        "fontSize": 20,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    },
+    "H3": {
+      "value": {
+        "fontFamily": "Open Sans",
+        "fontWeight": "SemiBold",
+        "lineHeight": 20,
+        "fontSize": 16,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    },
+    "H4": {
+      "value": {
+        "fontFamily": "Open Sans",
+        "fontWeight": "SemiBold",
+        "lineHeight": 18,
+        "fontSize": 14,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    },
+    "H5": {
+      "value": {
+        "fontFamily": "Open Sans",
+        "fontWeight": "SemiBold",
+        "lineHeight": 16,
+        "fontSize": 12,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    }
+  },
+  "textCase": {
+    "none": {
+      "value": "none",
+      "type": "textCase"
+    }
+  },
+  "textDecoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    }
+  },
+  "Text": {
+    "text-normal": {
+      "value": {
+        "fontFamily": "Open Sans",
+        "fontWeight": "Regular",
+        "lineHeight": 18,
+        "fontSize": 12,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    },
+    "text-bold": {
+      "value": {
+        "fontFamily": "Open Sans",
+        "fontWeight": "Bold",
+        "lineHeight": 18,
+        "fontSize": 12,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    },
+    "text-semibold": {
+      "value": {
+        "fontFamily": "Open Sans",
+        "fontWeight": "SemiBold",
+        "lineHeight": 18,
+        "fontSize": 12,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    }
   }
 }
