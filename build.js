@@ -61,15 +61,19 @@ function getStyleDictionaryConfig(theme) {
     },
     "platforms": {
       "web": {
-        "transforms": ["attribute/cti", "name/cti/kebab", "sizes/px"],
+        "transforms": ["attribute/cti", "name/cti/kebab", "typography/shorthand", "shadow/shorthand", "sizes/px"],
+        "prefix": "navex",
         "buildPath": `output/`,
+        "options": {
+                    "outputReferences": true
+        },
         "files": [{
           "destination": `${theme}.json`,
           "format": "createArray"
         }, {
           "destination": `${theme}.css`,
           "format": "css/variables",
-          "selector": `.${theme}-theme`
+          "selector": `.${theme}-theme, ::after, ::before, ::placeholder`
         }]
       }
     }
