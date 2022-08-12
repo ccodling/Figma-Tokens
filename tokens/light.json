@@ -15,10 +15,6 @@
     "value": "#ffc107",
     "type": "color"
   },
-  "white": {
-    "value": "#ffffff",
-    "type": "color"
-  },
   "alabaster": {
     "value": "#f9f9f9",
     "type": "color"
@@ -49,10 +45,6 @@
   },
   "mine-shaft": {
     "value": "#3c3737",
-    "type": "color"
-  },
-  "black": {
-    "value": "#333333",
     "type": "color"
   }
 }
