@@ -36,7 +36,7 @@
   --navex-heading-h5: SemiBold 12/16 Open Sans;
   --navex-text-case-none: none;
   --navex-text-decoration-none: none;
-  --navex-text-text-normal: Regular / Open Sans;
-  --navex-text-text-bold: Bold / Open Sans;
-  --navex-text-text-semibold: SemiBold / Open Sans;
+  --navex-text-regular: Regular / Open Sans;
+  --navex-text-bold: Bold / Open Sans;
+  --navex-text-semibold: SemiBold / Open Sans;
 }
