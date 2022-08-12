@@ -132,7 +132,7 @@
     }
   },
   "Heading": {
-    "H1": {
+    "h1": {
       "value": {
         "fontFamily": "Open Sans",
         "fontWeight": "SemiBold",
@@ -145,7 +145,7 @@
       },
       "type": "typography"
     },
-    "H2": {
+    "h2": {
       "value": {
         "fontFamily": "Open Sans",
         "fontWeight": "SemiBold",
@@ -158,7 +158,7 @@
       },
       "type": "typography"
     },
-    "H3": {
+    "h3": {
       "value": {
         "fontFamily": "Open Sans",
         "fontWeight": "SemiBold",
@@ -171,7 +171,7 @@
       },
       "type": "typography"
     },
-    "H4": {
+    "h4": {
       "value": {
         "fontFamily": "Open Sans",
         "fontWeight": "SemiBold",
@@ -184,7 +184,7 @@
       },
       "type": "typography"
     },
-    "H5": {
+    "h5": {
       "value": {
         "fontFamily": "Open Sans",
         "fontWeight": "SemiBold",
@@ -215,12 +215,12 @@
       "value": {
         "fontFamily": "Open Sans",
         "fontWeight": "Regular",
-        "lineHeight": 18,
-        "fontSize": 12,
-        "letterSpacing": 0,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "textDecoration": "none"
+        "lineHeight": "",
+        "fontSize": "",
+        "letterSpacing": "",
+        "paragraphSpacing": "",
+        "textCase": "",
+        "textDecoration": ""
       },
       "type": "typography"
     },
@@ -228,12 +228,12 @@
       "value": {
         "fontFamily": "Open Sans",
         "fontWeight": "Bold",
-        "lineHeight": 18,
-        "fontSize": 12,
-        "letterSpacing": 0,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "textDecoration": "none"
+        "lineHeight": "",
+        "fontSize": "",
+        "letterSpacing": "",
+        "paragraphSpacing": "",
+        "textCase": "",
+        "textDecoration": ""
       },
       "type": "typography"
     },
@@ -241,12 +241,12 @@
       "value": {
         "fontFamily": "Open Sans",
         "fontWeight": "SemiBold",
-        "lineHeight": 18,
-        "fontSize": 12,
-        "letterSpacing": 0,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "textDecoration": "none"
+        "lineHeight": "",
+        "fontSize": "",
+        "letterSpacing": "",
+        "paragraphSpacing": "",
+        "textCase": "",
+        "textDecoration": ""
       },
       "type": "typography"
     }
