@@ -1,5 +1,15 @@
 {
   "global": {
+    "white": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "black": {
+      "value": "#333333",
+      "type": "color"
+    }
+  },
+  "light": {
     "primary": {
       "value": "#3265d7",
       "type": "color"
@@ -57,5 +67,6 @@
       "type": "color"
     }
   },
+  "dark": {},
   "$themes": []
 }
