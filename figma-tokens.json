@@ -164,7 +164,7 @@
       }
     },
     "Text": {
-      "text-normal": {
+      "regular": {
         "value": {
           "fontFamily": "{fontFamilies.open-sans}",
           "fontWeight": "{fontWeights.open-sans-0}",
@@ -177,7 +177,7 @@
         },
         "type": "typography"
       },
-      "text-bold": {
+      "bold": {
         "value": {
           "fontFamily": "$fontFamilies.open-sans",
           "fontWeight": "$fontWeights.open-sans-2",
@@ -190,7 +190,7 @@
         },
         "type": "typography"
       },
-      "text-semibold": {
+      "semibold": {
         "value": {
           "fontFamily": "$fontFamilies.open-sans",
           "fontWeight": "{fontWeights.open-sans-1}",
