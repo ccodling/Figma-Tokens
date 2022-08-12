@@ -1,1 +1,58 @@
-{}
+{
+  "primary": {
+    "value": "#3265d7",
+    "type": "color"
+  },
+  "alert": {
+    "value": "#e3094c",
+    "type": "color"
+  },
+  "disabled-grey": {
+    "value": "#ccccca",
+    "type": "color"
+  },
+  "warning": {
+    "value": "#ffc107",
+    "type": "color"
+  },
+  "white": {
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "alabaster": {
+    "value": "#f9f9f9",
+    "type": "color"
+  },
+  "gallery": {
+    "value": "#edecec",
+    "type": "color"
+  },
+  "alto": {
+    "value": "#dddddd",
+    "type": "color"
+  },
+  "silver-chalice": {
+    "value": "#b2afaf",
+    "type": "color"
+  },
+  "spanish-grey": {
+    "value": "#929090",
+    "type": "color"
+  },
+  "charcoal": {
+    "value": "#5f5b5b",
+    "type": "color"
+  },
+  "tundra": {
+    "value": "#454040",
+    "type": "color"
+  },
+  "mine-shaft": {
+    "value": "#3c3737",
+    "type": "color"
+  },
+  "black": {
+    "value": "#333333",
+    "type": "color"
+  }
+}

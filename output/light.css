@@ -1,0 +1,16 @@
+.light-theme {
+  --primary: #3265d7;
+  --alert: #e3094c;
+  --disabled-grey: #ccccca;
+  --warning: #ffc107;
+  --white: #ffffff;
+  --alabaster: #f9f9f9;
+  --gallery: #edecec;
+  --alto: #dddddd;
+  --silver-chalice: #b2afaf;
+  --spanish-grey: #929090;
+  --charcoal: #5f5b5b;
+  --tundra: #454040;
+  --mine-shaft: #3c3737;
+  --black: #333333;
+}
