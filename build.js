@@ -23,6 +23,34 @@ StyleDictionaryPackage.registerTransform({
     }
     });
 
+/**
+ * Transform typography shorthands for css variables
+ */
+StyleDictionaryPackage.registerTransform({
+    name: "typography/shorthand",
+    type: "value",
+    transitive: true,
+    matcher: (token) => token.type === "typography",
+    transformer: (token) => {
+        const { fontWeight, fontSize, lineHeight, fontFamily } = token.original.value;
+        return `${fontWeight} ${fontSize}/${lineHeight} ${fontFamily}`;
+    },
+});
+/**
+ * Transform shadow shorthands for css variables
+ */
+StyleDictionaryPackage.registerTransform({
+    name: "shadow/shorthand",
+    type: "value",
+    transitive: true,
+    matcher: (token) => ["boxShadow"].includes(token.type),
+    transformer: (token) => {
+        return Array.isArray(token.original.value)
+            ? token.original.value.map((single) => transformShadow(single)).join(", ")
+            : transformShadow(token.original.value);
+    },
+});
+
 function getStyleDictionaryConfig(theme) {
   return {
     "source": [
